@@ -1,4 +1,4 @@
-for entry in "$sample"/*
+for entry in "$sample"*
 do
 echo "$entry"
 done
